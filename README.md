@@ -36,7 +36,7 @@ URL of Our Own 是面对 [archiveofourown.org ](https://archiveofourown.org)（�
       * Ubuntu: `sudo apt update && apt install -y git vim`
       * CentOS: `sudo yum update && yum install -y git vim`
 
-3. 使用 `git clone` 命令复制所需的文件：在任意路径执行 `git clone https://github.com/ExcitedCodes/URLOfOurOwn.git`
+3. 使用 `git clone` 命令复制所需的文件：在任意路径执行 `git clone https://github.com/2lifetop/URLOfOurOwn.git`
 
 4. 准备 Nginx 配置文件：在当前执行 `cp URLOfOurOwn/proxy/nginx/* /etc/nginx/conf.d`
 
